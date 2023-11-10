@@ -23,8 +23,8 @@ requirements:
     - poetry
   run:
     - python {{ python }}
-    - tensorflow ==2.5.0  # [linux]
-    - tensorflow ==2.5.0  # [win]
+    - tensorflow
+    - tensorflow
     - numpy
     - pandas
     - ffmpeg-python
