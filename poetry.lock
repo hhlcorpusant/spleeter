@@ -1797,8 +1797,8 @@ numpy = ">=1.12.0"
 protobuf
 requests = ">=2.21.0,<3"
 setuptools = ">=41.0.0"
-tensorboard-data-server = ">=0.6.0,<0.7.0"
-tensorboard-plugin-wit = ">=1.6.0"
+tensorboard-data-server
+tensorboard-plugin-wit
 werkzeug = ">=1.0.1"
 wheel = ">=0.26"
 
@@ -1862,7 +1862,7 @@ libclang = ">=13.0.0"
 numpy = ">=1.20"
 opt-einsum = ">=2.3.2"
 packaging = "*"
-protobuf = ">=3.9.2,<3.20"
+protobuf
 setuptools = "*"
 six = ">=1.12.0"
 tensorboard = ">=2.9,<2.10"
